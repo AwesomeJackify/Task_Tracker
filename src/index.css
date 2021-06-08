@@ -11,3 +11,64 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  width: 700px;
+  min-height: 200px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  margin: -250px 0 0 -350px;
+  padding: 50px;
+  border: 1px solid grey;
+  box-shadow: 10px 10px 5px grey;
+  background-color: #555dc5;
+}
+
+header {
+  height: 100px;
+}
+
+header h1 {
+  color: white;
+  float: left;
+}
+
+header button {
+  float: right;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+h3 svg {
+  float: right;
+}
+
+.noTasks {
+  color: #eccd1a;
+  text-align: center;
+}
+
+.reminder {
+  border-left: 10px solid #eccd1a;
+}
+
+form label {
+  color: white;
+  font-size: 24px;
+}
+
+.form-check label {
+  font-size: 16px;
+}
+
+.saveTask {
+  float: right;
+}
+
+hr {
+  margin: 60px auto;
+  background-color: white;
+}
