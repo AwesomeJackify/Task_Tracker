@@ -4,4 +4,5 @@
 
 ## View the demo here: 
 [View Demo](https://task-tracker-awesomejackify.herokuapp.com/)
+
 Demo is hosted with Heroku free so it might take a while to launch initially
