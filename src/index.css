@@ -15,11 +15,8 @@ code {
 .container {
   width: 700px;
   min-height: 200px;
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  margin: -250px 0 0 -350px;
   padding: 50px;
+  margin: 300px auto;
   border: 1px solid grey;
   box-shadow: 10px 10px 5px grey;
   background-color: #555dc5;
