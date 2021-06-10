@@ -3,6 +3,6 @@
 ![preview of the task tracker](task_tracker_readme.png "What the task tracker looks like")
 
 ## View the demo here: 
-[View Demo](https://task-tracker-awesomejackify.herokuapp.com/)
+[View Demo](https://jackgong.me/)
 
-Demo is hosted with Heroku free so it might take a while to launch initially
+Demo is hosted with Github Pages
